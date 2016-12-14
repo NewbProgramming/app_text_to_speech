@@ -1,0 +1,10 @@
+C:\OneDrive\Documents\Projects\app_text_to_speech\app_text_to_speech\bin\Debug\app_text_to_speech.exe.config
+C:\OneDrive\Documents\Projects\app_text_to_speech\app_text_to_speech\bin\Debug\app_text_to_speech.exe
+C:\OneDrive\Documents\Projects\app_text_to_speech\app_text_to_speech\bin\Debug\app_text_to_speech.pdb
+C:\OneDrive\Documents\Projects\app_text_to_speech\app_text_to_speech\obj\Debug\app_text_to_speech.csprojResolveAssemblyReference.cache
+C:\OneDrive\Documents\Projects\app_text_to_speech\app_text_to_speech\obj\Debug\app_text_to_speech.text_to_speech.resources
+C:\OneDrive\Documents\Projects\app_text_to_speech\app_text_to_speech\obj\Debug\app_text_to_speech.Properties.Resources.resources
+C:\OneDrive\Documents\Projects\app_text_to_speech\app_text_to_speech\obj\Debug\app_text_to_speech.csproj.GenerateResource.Cache
+C:\OneDrive\Documents\Projects\app_text_to_speech\app_text_to_speech\obj\Debug\app_text_to_speech.exe
+C:\OneDrive\Documents\Projects\app_text_to_speech\app_text_to_speech\obj\Debug\app_text_to_speech.pdb
+C:\OneDrive\Documents\Projects\app_text_to_speech\app_text_to_speech\obj\Debug\app_text_to_speech.window_get_text.resources
